@@ -23,6 +23,17 @@
     "type": "git",
     "url": "https://github.com/joeyschroeder/babel-preset-joey.git"
   },
+  "keywords": [
+    "babel",
+    "preset",
+    "preset-env",
+    "proposal-class-properties",
+    "react",
+    "react",
+    "transform-react-constant-elements",
+    "transform-react-inline-elements",
+    "transform-runtime"
+  ],
   "author": {
     "name": "Joey Schroeder",
     "email": "schrjos@gmail.com"
