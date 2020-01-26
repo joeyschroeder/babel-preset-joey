@@ -47,11 +47,11 @@
   },
   "homepage": "https://github.com/joeyschroeder/babel-preset-joey",
   "devDependencies": {
-    "@babel/cli": "7.6.4",
-    "@babel/core": "7.5.5",
+    "@babel/cli": "7.8.3",
+    "@babel/core": "7.8.3",
     "@babel/preset-env": "^7.6.3",
     "eslint": "^6.5.1",
-    "eslint-config-joey": "0.1.4",
+    "eslint-config-joey": "0.1.6",
     "generate-changelog": "1.8.0",
     "pre-commit": "1.2.2"
   },
