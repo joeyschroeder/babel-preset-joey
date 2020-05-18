@@ -47,22 +47,22 @@
   },
   "homepage": "https://github.com/joeyschroeder/babel-preset-joey",
   "devDependencies": {
-    "@babel/cli": "7.8.3",
+    "@babel/cli": "7.8.4",
     "@babel/core": "7.8.3",
-    "@babel/preset-env": "^7.6.3",
-    "eslint": "^6.5.1",
+    "@babel/preset-env": "^7.9.6",
+    "eslint": "^7.0.0",
     "eslint-config-joey": "0.1.6",
     "generate-changelog": "1.8.0",
     "pre-commit": "1.2.2"
   },
   "dependencies": {
-    "@babel/plugin-proposal-class-properties": "^7.5.5",
-    "@babel/plugin-transform-react-constant-elements": "^7.6.3",
-    "@babel/plugin-transform-react-inline-elements": "^7.2.0",
-    "@babel/plugin-transform-runtime": "^7.6.2",
-    "@babel/preset-env": "^7.6.3",
-    "@babel/preset-react": "^7.6.3",
-    "@babel/runtime": "^7.6.3"
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-transform-react-constant-elements": "^7.9.0",
+    "@babel/plugin-transform-react-inline-elements": "^7.9.0",
+    "@babel/plugin-transform-runtime": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-react": "^7.9.4",
+    "@babel/runtime": "^7.9.6"
   },
   "peerDependencies": {
     "@babel/core": ">= 7"
