@@ -1,3 +1,9 @@
+#### 0.0.3 (2020-05-18)
+
+##### Chores
+
+*  Update package dependencies ([3af2ef8e](https://github.com/joeyschroeder/babel-preset-joey/commit/3af2ef8e8236cca0f3675116545cfc6d7b6db8f5))
+
 #### 0.0.2 (2020-01-26)
 
 ##### Other Changes
