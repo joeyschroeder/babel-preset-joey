@@ -1,3 +1,14 @@
+#### 0.0.4 (2021-03-17)
+
+##### Chores
+
+*  Update package dependencies ([784f353a](https://github.com/joeyschroeder/babel-preset-joey/commit/784f353a8e8f20ad20d7a79a07383e61f3f2e8e6))
+*  Update package dependencies ([3af2ef8e](https://github.com/joeyschroeder/babel-preset-joey/commit/3af2ef8e8236cca0f3675116545cfc6d7b6db8f5))
+
+##### Code Style Changes
+
+*  Fix lint warnings ([ab0e0270](https://github.com/joeyschroeder/babel-preset-joey/commit/ab0e0270ee72973d4b36bc145a00ffd05bd29b90))
+
 #### 0.0.3 (2020-05-18)
 
 ##### Chores
