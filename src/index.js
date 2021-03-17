@@ -12,8 +12,8 @@ module.exports = () => ({
     production: {
       plugins: [
         PluginTransformReactConstantElements,
-        PluginTransformReactInlineElements
-      ]
-    }
-  }
+        PluginTransformReactInlineElements,
+      ],
+    },
+  },
 });
